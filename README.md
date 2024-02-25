@@ -1,10 +1,9 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# HealthBook
+A health journal app built with React Native v0.73.4
 
-# Getting Started
+>**Note**: This app is built using:
+>**Note**: * TypeScript
+>**Note**: * Redux
+>**Note**: * Firebase
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
-
-## Step 1: Start the Metro Server
-
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
- Android Studio and Xcode respectively.
+## Universal APK Download

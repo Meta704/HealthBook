@@ -6,7 +6,7 @@ This app is built using:
 * Redux
 * Firebase
 
-## Universal APK Download
+## APK file download
 [Click to download](https://github.com/Meta704/HealthBook/releases/download/HealthBook/HealthBook.apk)
 
 # License

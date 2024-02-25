@@ -9,5 +9,6 @@ This app is built using:
 ## Universal APK Download
 
 # License
-[MIT License](LICENSE).
+[MIT License](LICENSE)
+
 Built by Meishar Tal

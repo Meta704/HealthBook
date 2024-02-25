@@ -7,3 +7,5 @@ This app is built using:
 * Firebase
 
 ## Universal APK Download
+
+**Note**: Built by Meishar Tal

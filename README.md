@@ -8,6 +8,7 @@ This app is built using:
 
 ## Universal APK Download
 
+
 # License
 [MIT License](LICENSE)
 

@@ -8,4 +8,6 @@ This app is built using:
 
 ## Universal APK Download
 
-**Note**: Built by Meishar Tal
+# License
+HealthBook is licensed under the [MIT License](LICENSE).
+Built by Meishar Tal

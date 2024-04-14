@@ -1,4 +1,4 @@
-Screenshots taken from:
+# Screenshots taken from:
 
 Android Emulator
 Mobile
